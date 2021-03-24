@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.bookCarouselImg img{
+  width: auto;
+  height: 580px;
+  max-height: 580px;
+}
+
+.carousel-inner img {
+  margin: auto;
+}
+
+footer{
+  background-color:rgb(43, 43, 43);
+  color: white;
+}
